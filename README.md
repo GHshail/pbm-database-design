@@ -1,12 +1,12 @@
-# PMB Solutions – Pharmacy Benefit Management Database Design
+# PBM Solutions – Pharmacy Benefit Management Database Design
 
-A relational database design for a hypothetical pharmacy benefit management (PBM) company, **PMB Solutions**, which manages prescription drug benefits on behalf of client organizations (employers, health plans, etc.).
+A relational database design for a hypothetical pharmacy benefit management (PBM) company, **PBM Solutions**, which manages prescription drug benefits on behalf of client organizations (employers, health plans, etc.).
 
 This project demonstrates core RDBMS design principles — entity modeling, normalization, primary/foreign key relationships, and query design — applied to a realistic healthcare use case.
 
 ## Overview
 
-PMB Solutions needs to track:
+PBM Solutions needs to track:
 - **Members** enrolled under a client's pharmacy benefit plan
 - **Drugs** covered under the plan formulary
 - **Prescribers** (physicians) who write prescriptions
